@@ -1,0 +1,15 @@
+on:
+  workflow_dispatch:
+
+name: simple-windows
+
+jobs:
+  ci:
+    runs-on: nscloud-windows-2022-amd64-4x8
+    steps:
+      - name: Env checks
+        run: |
+          dir
+          dir \
+
+      - uses: actions/checkout@v3
