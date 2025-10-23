@@ -12,11 +12,11 @@
                         <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
                         <guid isPermaLink="false">test-image-2024-01-01T00:00:00Z</guid>
                         <description><![CDATA[
-                                <ul>
-                                <li>⬆️ Updated: macOS Sonoma 14.0 → 14.1</li>
-                                <li>➕ Added: Xcode 15.1</li>
-                                <li>➖ Removed: Xcode 15.0</li>
-                                </ul>
+<ul>
+      <li>⬆️ Updated: macOS Sonoma 14.0 → 14.1</li>
+      <li>➕ Added: Xcode 15.1</li>
+      <li>➖ Removed: Xcode 15.0</li>
+</ul>
                         ]]></description>
                 </item>
                 
